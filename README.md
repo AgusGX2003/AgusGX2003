@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://github.com/AgusGX2003/AgusGX2003/blob/main/wave.gif">, mi nombre es Agustin</h1>
+<h1 align="center">Hola <img src="https://github.com/AgusGX2003/AgusGX2003/blob/main/wave.gif" style="width: 30px; height: 30px;">, mi nombre es Agustin</h1>
 <h4>Soy Desarrollador Web Frontend, me dedico al diseño y desarrollo de interfaces de usuario usables e interactivas para sitios y aplicaciones web complejas, poniendo un especial énfasis en las personas usuarias. Responsabilizándome en tareas como la maquetación de sitios y aplicaciones web, asegurándome de su debido funcionamiento y rendimiento para lograr la mejor experiencia de usuario posible. Mis principales herramientas de trabajo son React y TypeScript para el desarrollo Frontend y de manera secundaria tengo nociones de Diseño UX/UI junto a Figma, para el diseño y prototipado de interfaces de usuario.</h3>
 
 <h3 align="left">Skills</h3>
